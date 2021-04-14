@@ -1,5 +1,5 @@
 // --------------------------------
-// Snacks JS - Esercizio 6
+// Snacks 1 JS - Esercizio 6
 // --------------------------------
 // 1) Creare un array di oggetti: ogni oggetto descriverà una bici da corsa con le seguenti proprietà: nome e peso.
 // 2) Stampare a schermo la bici con peso minore utilizzando destructuring e template literal.
